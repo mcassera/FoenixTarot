@@ -1,0 +1,2 @@
+%! It's nice to meet you!
+We are going to read a three card spread. There are a few different scenarios we can read for, they are, 'Past, Present, Future', 'Situation, Problem, Action', 'You, Me, Us', or 'Option A, Option B, How to decide.' Choose the spread with the left/right cursor keys now. Hit RETURN when you're ready to move on.^

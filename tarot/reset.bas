@@ -1,0 +1,1 @@
+10    user=alloc(20)20    a$="new......."30    a$=a$+"0"40    a$=a$+"111222333"50    print len(a$)60    for n=0 to 1970    poke user+n,asc(mid$(a$,n+1,1))80    next 90    for n=0 to 19100   print chr$(peek(user+n));110   next 120   print 130   bsave "tarot/user.bin",user,20

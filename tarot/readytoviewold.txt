@@ -1,0 +1,2 @@
+%, here is your spread!
+I will reveal each card one at a time. press the space bar to see the next card. Once all the cards are revealed, you will have a chance to review the card explanations using the left/right cursor key to navigate through them. Press space to begin.^

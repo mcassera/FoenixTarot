@@ -1,0 +1,2 @@
+Hi %,
+I can show you the last spread we did together. Are you interested in reviewing it before we start a new reading (y,n)?^
